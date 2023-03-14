@@ -18,5 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalie-linda&theme=radical)](https://github.com/nalie-linda/github-readme-stats)
 
+### 📈 GitHub Activity Graph:
+[![Nalie's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nalie-linda&theme=github-compact)](https://github.com/nalie-linda/github-readme-activity-graph)
+
  
 
