@@ -15,4 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Nalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalie-linda)](https://github.com/nalie-linda/github-readme-stats)
 
-[Analytics](https://github-readme-activity-graph.cyclic.app/graph?username={nalie-linda}&theme={xcode})
+
+[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalie-linda)
