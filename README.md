@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @Linda
-- 👀 I’m interested in: Data, statistics and Tech
+- 👀 I’m interested in: Data, statistics and Programming
 - 🌱 I’m currently learning:  Data Science
 - 💞️ I’m looking to collaborate on  ..(nothing yet..)
 - 📫 How to reach me : www.linkedin.com/in/linda-nalweyiso
