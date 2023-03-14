@@ -1,5 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+
 - 👋 Hi, I’m @Linda
 - 👀 I’m interested in: Data, statistics and Tech
 - 🌱 I’m currently learning:  Data Science
@@ -12,3 +14,5 @@ nalie-linda/nalie-linda is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![Nalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalie-linda)](https://github.com/nalie-linda/github-readme-stats)
+
+[Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
