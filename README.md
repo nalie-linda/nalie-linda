@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Nalie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalie-linda)](https://github.com/nalie-linda/github-readme-stats)
 
-[Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+[Analytics](https://github-readme-activity-graph.cyclic.app/graph?username={nalie-linda}&theme={xcode})
